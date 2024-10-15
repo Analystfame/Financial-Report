@@ -16,7 +16,7 @@ The objective of this project was to:
 
    [Fixed Asset Roll Forward](Fixed-Asset-Roll-Forward.pdf) Starting from 2015 as we do not have sufficient data for 2014
    
-   [Financial Liability](Financial-Liability.pdf) Forcasting Financial Liability if we do not take any new debt and we plan to pay off our old debt in 10 Years
+   [Financial Liability](Financial-Liability.pdf) We anticipate that, without incurring any new debt, we will focus on systematically paying off our existing financial obligations over the next 10 years. This strategy will enable us to reduce our liabilities gradually while ensuring a stable financial position.
    
    [Equity Schedule](Equity-Schedule.pdf) Equity schedule and dividend payment % of Netincome(loss)
 
