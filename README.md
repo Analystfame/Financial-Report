@@ -12,7 +12,9 @@ The objective of this project was to:
 5. create and forecast several schedule to help me build the complete model.
 
    [Fixed Asset Roll Forward](Fixed-Asset-Roll-Forward.pdf)
+   
    [Financial Liability](Financial-Liability.pdf)
+   
    [Equity Schedule](Equity-Schedule.pdf)
 
 ## **Revenue Analytics**  
