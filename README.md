@@ -3,6 +3,9 @@
 **Overview**  
 XYZ Supermarket is a leading player in the retail industry. I played a pivotal role in this project, which involved generating comprehensive sales and financial reports to analyze the supermarket's market performance and forecast its financial trajectory over the next four years.
 
+##**Source Data**
+You can download [Source Data](Data-of-transactions.xlsx)
+
 ## **Project Objective**  
 The objective of this project was to:
 1. Create a [P&L](P&L.pdf) and Develop a revenue forecast based on historical data. 
