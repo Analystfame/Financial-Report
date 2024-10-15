@@ -11,9 +11,9 @@ The objective of this project was to:
 4. Create a flexible model that show the best , base and worst case scenerios.
 5. create and forecast several schedule to help me build the complete model.
    
-   [Fixed Asset Roll Forward](Fixed-Asset-Roll-Forward.pdf)
-   [Financial Liability](Financial-Liability.pdf):Financial Liability Schedule
-   [Equity Schedule](Equity-Schedule.pdf):Equity Schedule
+   ##[Fixed Asset Roll Forward](Fixed-Asset-Roll-Forward.pdf)
+   ##[Financial Liability](Financial-Liability.pdf):Financial Liability Schedule
+   ##[Equity Schedule](Equity-Schedule.pdf):Equity Schedule
 
 
 ## **Revenue Analytics**  
