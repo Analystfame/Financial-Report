@@ -5,7 +5,7 @@ XYZ Supermarket is a leading player in the retail industry. I played a pivotal r
 
 ## **Project Objective**  
 The objective of this project was to:
-1. Create a P&L and Develop a revenue forecast based on historical data. [P&L + 4year forecast.pdf](Financial-Report/blob/4aebe88221903253be77c9fbf0d1b7f1111524b2/Balance-Sheet%20%26%20Forecast.pdf)
+1. Create a P&L and Develop a revenue forecast based on historical data. [P&L + 4year forecast.pdf](Financial-Report/Balance-Sheet%20%26%20Forecast.pdf)
 2. Create a Balance Sheet [XYZ_Financial_Forecast.xlsx](docs/XYZ_Financial_Forecast.xlsx)
 3. Create a Cash Flow Statment [XYZ_Financial_Forecast.xlsx](docs/XYZ_Financial_Forecast.xlsx)
 4. Create a flexible model that show the best , base and worst case scenerios.
