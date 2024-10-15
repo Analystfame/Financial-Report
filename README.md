@@ -18,7 +18,7 @@ The objective of this project was to:
    
    [Financial Liability](Financial-Liability.pdf) We anticipate that, without incurring any new debt, we will focus on systematically paying off our existing financial obligations over the next 10 years. This strategy will enable us to reduce our liabilities gradually while ensuring a stable financial position.
    
-   [Equity Schedule](Equity-Schedule.pdf) Equity schedule and dividend payment % of Netincome(loss)
+   [Equity Schedule](Equity-Schedule.pdf) Equity schedule and dividend payment as a % of Netincome(loss)
 
 ## **Revenue Analytics**  
 I conducted a thorough horizontal analysis to determine the year-over-year percentage growth in revenue. By examining historical sales data, I calculated the average growth rate, which I then utilized to forecast revenue growth over the next four years. This method not only provided valuable insights into past performance but also established a reliable basis for projecting future revenue trends, enabling strategic planning and informed decision-making.
